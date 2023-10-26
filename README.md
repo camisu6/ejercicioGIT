@@ -1,3 +1,3 @@
 # ejercicioGIT
-##Miryam Camila Ramos Gallegos
-###cramos.fp@gmail.com
+## Miryam Camila Ramos Gallegos
+### cramos.fp@gmail.com
